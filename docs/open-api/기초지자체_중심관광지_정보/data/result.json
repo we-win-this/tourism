@@ -1,0 +1,157 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "0000",
+      "resultMsg": "OK"
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "baseYm": "202412",
+            "mapX": "126.8828257904",
+            "mapY": "37.5011642132",
+            "areaCd": "11",
+            "areaNm": "서울특별시",
+            "signguCd": "11530",
+            "signguNm": "구로구",
+            "hubTatsCd": "b5ef6787d594080cd54b65a9bc884a9b",
+            "hubTatsNm": "NC백화점/신구로점",
+            "hubCtgryLclsNm": "관광지",
+            "hubCtgryMclsNm": "쇼핑",
+            "hubRank": "1"
+          },
+          {
+            "baseYm": "202412",
+            "mapX": "126.8671327929",
+            "mapY": "37.498220014",
+            "areaCd": "11",
+            "areaNm": "서울특별시",
+            "signguCd": "11530",
+            "signguNm": "구로구",
+            "hubTatsCd": "7a26ab6765d89defa50ba1df5722052c",
+            "hubTatsNm": "고척스카이돔",
+            "hubCtgryLclsNm": "관광지",
+            "hubCtgryMclsNm": "문화관광",
+            "hubRank": "2"
+          },
+          {
+            "baseYm": "202412",
+            "mapX": "126.8892418049",
+            "mapY": "37.5086911597",
+            "areaCd": "11",
+            "areaNm": "서울특별시",
+            "signguCd": "11530",
+            "signguNm": "구로구",
+            "hubTatsCd": "ceee892d52a74a0205e1902abf00b5b7",
+            "hubTatsNm": "현대백화점/디큐브시티점",
+            "hubCtgryLclsNm": "관광지",
+            "hubCtgryMclsNm": "쇼핑",
+            "hubRank": "3"
+          },
+          {
+            "baseYm": "202412",
+            "mapX": "126.8591951765",
+            "mapY": "37.4985108113",
+            "areaCd": "11",
+            "areaNm": "서울특별시",
+            "signguCd": "11530",
+            "signguNm": "구로구",
+            "hubTatsCd": "42e31df078dda2b15c4dca3fbc4c9e5c",
+            "hubTatsNm": "아이파크몰/고척점",
+            "hubCtgryLclsNm": "관광지",
+            "hubCtgryMclsNm": "쇼핑",
+            "hubRank": "4"
+          },
+          {
+            "baseYm": "202412",
+            "mapX": "126.8827702401",
+            "mapY": "37.5011364383",
+            "areaCd": "11",
+            "areaNm": "서울특별시",
+            "signguCd": "11530",
+            "signguNm": "구로구",
+            "hubTatsCd": "3a4444e24b0ee9d14d6f59f800d2b06e",
+            "hubTatsNm": "CGV/구로",
+            "hubCtgryLclsNm": "관광지",
+            "hubCtgryMclsNm": "문화관광",
+            "hubRank": "5"
+          },
+          {
+            "baseYm": "202412",
+            "mapX": "126.8460400474",
+            "mapY": "37.4974202072",
+            "areaCd": "11",
+            "areaNm": "서울특별시",
+            "signguCd": "11530",
+            "signguNm": "구로구",
+            "hubTatsCd": "57e1099e4787afc40e35cbd6c67d9b8e",
+            "hubTatsNm": "호텔베르누이서울",
+            "hubCtgryLclsNm": "숙박",
+            "hubCtgryMclsNm": "숙박",
+            "hubRank": "6"
+          },
+          {
+            "baseYm": "202412",
+            "mapX": "126.8522451784",
+            "mapY": "37.5057468313",
+            "areaCd": "11",
+            "areaNm": "서울특별시",
+            "signguCd": "11530",
+            "signguNm": "구로구",
+            "hubTatsCd": "86d742ac9b8bfe2759a2764a25cc7e71",
+            "hubTatsNm": "고척근린공원",
+            "hubCtgryLclsNm": "관광지",
+            "hubCtgryMclsNm": "문화관광",
+            "hubRank": "7"
+          },
+          {
+            "baseYm": "202412",
+            "mapX": "126.8966024771",
+            "mapY": "37.4850272736",
+            "areaCd": "11",
+            "areaNm": "서울특별시",
+            "signguCd": "11530",
+            "signguNm": "구로구",
+            "hubTatsCd": "3328f55fb85f94eb060228f225523c80",
+            "hubTatsNm": "롯데시티호텔/구로",
+            "hubCtgryLclsNm": "숙박",
+            "hubCtgryMclsNm": "숙박",
+            "hubRank": "8"
+          },
+          {
+            "baseYm": "202412",
+            "mapX": "126.8895473304",
+            "mapY": "37.5089411326",
+            "areaCd": "11",
+            "areaNm": "서울특별시",
+            "signguCd": "11530",
+            "signguNm": "구로구",
+            "hubTatsCd": "47c5ea9616b718c9340b2f27ec1494ab",
+            "hubTatsNm": "디큐브링크아트센터",
+            "hubCtgryLclsNm": "관광지",
+            "hubCtgryMclsNm": "문화관광",
+            "hubRank": "9"
+          },
+          {
+            "baseYm": "202412",
+            "mapX": "126.8989356174",
+            "mapY": "37.4831663918",
+            "areaCd": "11",
+            "areaNm": "서울특별시",
+            "signguCd": "11530",
+            "signguNm": "구로구",
+            "hubTatsCd": "8a619b135d3ff00847203203da7474cf",
+            "hubTatsNm": "포포인츠바이쉐라톤/서울구로",
+            "hubCtgryLclsNm": "숙박",
+            "hubCtgryMclsNm": "숙박",
+            "hubRank": "10"
+          }
+        ]
+      },
+      "numOfRows": 10,
+      "pageNo": 1,
+      "totalCount": 80
+    }
+  }
+}

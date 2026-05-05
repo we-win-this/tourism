@@ -1,0 +1,117 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "0000",
+      "resultMsg": "OK"
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "areaCode": "11",
+            "areaNm": "서울특별시",
+            "daywkDivCd": "1",
+            "daywkDivNm": "월요일",
+            "touDivCd": "1",
+            "touDivNm": "현지인(a)",
+            "touNum": "4633545.0",
+            "baseYmd": "20241202"
+          },
+          {
+            "areaCode": "11",
+            "areaNm": "서울특별시",
+            "daywkDivCd": "1",
+            "daywkDivNm": "월요일",
+            "touDivCd": "1",
+            "touDivNm": "현지인(a)",
+            "touNum": "4578665.0",
+            "baseYmd": "20241209"
+          },
+          {
+            "areaCode": "11",
+            "areaNm": "서울특별시",
+            "daywkDivCd": "1",
+            "daywkDivNm": "월요일",
+            "touDivCd": "1",
+            "touDivNm": "현지인(a)",
+            "touNum": "4546283.0",
+            "baseYmd": "20241216"
+          },
+          {
+            "areaCode": "11",
+            "areaNm": "서울특별시",
+            "daywkDivCd": "1",
+            "daywkDivNm": "월요일",
+            "touDivCd": "1",
+            "touDivNm": "현지인(a)",
+            "touNum": "4515924.0",
+            "baseYmd": "20241223"
+          },
+          {
+            "areaCode": "11",
+            "areaNm": "서울특별시",
+            "daywkDivCd": "1",
+            "daywkDivNm": "월요일",
+            "touDivCd": "1",
+            "touDivNm": "현지인(a)",
+            "touNum": "3863765.5",
+            "baseYmd": "20241230"
+          },
+          {
+            "areaCode": "11",
+            "areaNm": "서울특별시",
+            "daywkDivCd": "1",
+            "daywkDivNm": "월요일",
+            "touDivCd": "2",
+            "touDivNm": "외지인(b)",
+            "touNum": "1246105.0",
+            "baseYmd": "20241202"
+          },
+          {
+            "areaCode": "11",
+            "areaNm": "서울특별시",
+            "daywkDivCd": "1",
+            "daywkDivNm": "월요일",
+            "touDivCd": "2",
+            "touDivNm": "외지인(b)",
+            "touNum": "1342708.5",
+            "baseYmd": "20241209"
+          },
+          {
+            "areaCode": "11",
+            "areaNm": "서울특별시",
+            "daywkDivCd": "1",
+            "daywkDivNm": "월요일",
+            "touDivCd": "2",
+            "touDivNm": "외지인(b)",
+            "touNum": "1478386.0",
+            "baseYmd": "20241216"
+          },
+          {
+            "areaCode": "11",
+            "areaNm": "서울특별시",
+            "daywkDivCd": "1",
+            "daywkDivNm": "월요일",
+            "touDivCd": "2",
+            "touDivNm": "외지인(b)",
+            "touNum": "1644653.5",
+            "baseYmd": "20241223"
+          },
+          {
+            "areaCode": "11",
+            "areaNm": "서울특별시",
+            "daywkDivCd": "1",
+            "daywkDivNm": "월요일",
+            "touDivCd": "2",
+            "touDivNm": "외지인(b)",
+            "touNum": "1473587.5",
+            "baseYmd": "20241230"
+          }
+        ]
+      },
+      "numOfRows": 10,
+      "pageNo": 1,
+      "totalCount": 1581
+    }
+  }
+}

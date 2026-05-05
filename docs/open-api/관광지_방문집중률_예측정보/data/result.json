@@ -1,0 +1,107 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "0000",
+      "resultMsg": "OK"
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "baseYmd": "20260504",
+            "areaCd": "51",
+            "areaNm": "강원특별자치도",
+            "signguCd": "51130",
+            "signguNm": "원주시",
+            "tAtsNm": "간현관광지",
+            "cnctrRate": "32.31"
+          },
+          {
+            "baseYmd": "20260505",
+            "areaCd": "51",
+            "areaNm": "강원특별자치도",
+            "signguCd": "51130",
+            "signguNm": "원주시",
+            "tAtsNm": "간현관광지",
+            "cnctrRate": "71.84"
+          },
+          {
+            "baseYmd": "20260506",
+            "areaCd": "51",
+            "areaNm": "강원특별자치도",
+            "signguCd": "51130",
+            "signguNm": "원주시",
+            "tAtsNm": "간현관광지",
+            "cnctrRate": "44.64"
+          },
+          {
+            "baseYmd": "20260507",
+            "areaCd": "51",
+            "areaNm": "강원특별자치도",
+            "signguCd": "51130",
+            "signguNm": "원주시",
+            "tAtsNm": "간현관광지",
+            "cnctrRate": "36.12"
+          },
+          {
+            "baseYmd": "20260508",
+            "areaCd": "51",
+            "areaNm": "강원특별자치도",
+            "signguCd": "51130",
+            "signguNm": "원주시",
+            "tAtsNm": "간현관광지",
+            "cnctrRate": "36.71"
+          },
+          {
+            "baseYmd": "20260509",
+            "areaCd": "51",
+            "areaNm": "강원특별자치도",
+            "signguCd": "51130",
+            "signguNm": "원주시",
+            "tAtsNm": "간현관광지",
+            "cnctrRate": "86.37"
+          },
+          {
+            "baseYmd": "20260510",
+            "areaCd": "51",
+            "areaNm": "강원특별자치도",
+            "signguCd": "51130",
+            "signguNm": "원주시",
+            "tAtsNm": "간현관광지",
+            "cnctrRate": "98.96"
+          },
+          {
+            "baseYmd": "20260511",
+            "areaCd": "51",
+            "areaNm": "강원특별자치도",
+            "signguCd": "51130",
+            "signguNm": "원주시",
+            "tAtsNm": "간현관광지",
+            "cnctrRate": "27.85"
+          },
+          {
+            "baseYmd": "20260512",
+            "areaCd": "51",
+            "areaNm": "강원특별자치도",
+            "signguCd": "51130",
+            "signguNm": "원주시",
+            "tAtsNm": "간현관광지",
+            "cnctrRate": "43.94"
+          },
+          {
+            "baseYmd": "20260513",
+            "areaCd": "51",
+            "areaNm": "강원특별자치도",
+            "signguCd": "51130",
+            "signguNm": "원주시",
+            "tAtsNm": "간현관광지",
+            "cnctrRate": "45"
+          }
+        ]
+      },
+      "numOfRows": 10,
+      "pageNo": 1,
+      "totalCount": 1650
+    }
+  }
+}
