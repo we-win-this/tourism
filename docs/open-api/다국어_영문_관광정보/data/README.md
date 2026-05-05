@@ -1,25 +1,52 @@
-# 다국어 관광정보(영문(English)) API 샘플 데이터
+# 다국어 관광정보 — 영어 (English) 샘플 데이터
 
-한국관광공사 영문(English) 관광정보 서비스 응답 샘플 (10건 / 전체 15,862건)
+> 한국관광공사 EngService2 · areaBasedList2 · 총 15,862건
 
-## 샘플 목록
+## 개요
 
-| 관광지명(영어) | 주소 | 콘텐츠 유형 | 이미지 |
-| :--- | :--- | :---: | :---: |
-| **추암조각공원 (Chuam Sculpture P…** | 17-1 Chotdaebawi-gil, Donghae-… | 76 | - |
-| **0914 Flagship Store Dosan…** | 1F–2F, 15, Dosan-daero 45-gil,… | 79 | [![0914 Flagship Store Dosan Park[Tax Refund Shop](0914 도산공원 플래그십 스토어)](https://tong.visitkorea.or.kr/cms/resource/71/4044971_image3_1.JPG)](https://tong.visitkorea.or.kr/cms/resource/71/4044971_image2_1.JPG) |
-| **10 Corso Como Cheongdam B…** | 416, Apgujeong-ro, Gangnam-gu,… | 79 | [![10 Corso Como Cheongdam Branch (10꼬르소꼬모 청담점)](http://tong.visitkorea.or.kr/cms/resource/71/2778971_image3_1.png)](http://tong.visitkorea.or.kr/cms/resource/71/2778971_image2_1.png) |
-| **10 Corso Como Cheongdam B…** | 2F, 1F, 416, Apgujeong-ro, Gan… | 79 | [![10 Corso Como Cheongdam Branch [Tax Refund Shop](10꼬르소꼬모 청담점)](https://tong.visitkorea.or.kr/cms/resource/15/4018515_image3_1.jpg)](https://tong.visitkorea.or.kr/cms/resource/15/4018515_image2_1.jpg) |
-| **10 Corso Como Magazzini G…** | 9, Apgujeong-ro 10-gil, Gangna… | 79 | [![10 Corso Como Magazzini Garosu-gil Branch [Tax Refund Shop](10꼬르소꼬모 마가찌니 가로수길점)](https://tong.visitkorea.or.kr/cms/resource/26/4018126_image3_1.jpg)](https://tong.visitkorea.or.kr/cms/resource/26/4018126_image2_1.jpg) |
-| **100 Years Market 100 Year…** | 16 Hancheon-ro 144-gil, Gangbu… | 85 | [![100 Years Market 100 Years Night (백년시장 백년나이트)](http://tong.visitkorea.or.kr/cms/resource/53/3537253_image3_1.jpg)](http://tong.visitkorea.or.kr/cms/resource/53/3537253_image2_1.jpg) |
-| **100 Years Optical [Tax Re…** | 1F, 34, Mareunnae-ro, Jung-gu,… | 79 | [![100 Years Optical [Tax Refund Shop](백년안경)](https://tong.visitkorea.or.kr/cms/resource/72/4024672_image3_1.jpeg)](https://tong.visitkorea.or.kr/cms/resource/72/4024672_image2_1.jpeg) |
-| **1001 Optics Imdang Branch…** | 1F, 2110, Gyeonggang-ro, Gangn… | 79 | [![1001 Optics Imdang Branch [Tax Refund Shop](일공공일안경콘택트 임당점)](https://tong.visitkorea.or.kr/cms/resource/42/4042142_image3_1.JPG)](https://tong.visitkorea.or.kr/cms/resource/42/4042142_image2_1.JPG) |
-| **1004 Islands Museum Park …** | 508-65 Jaeunseobu 2-gil, Jaeun… | 76 | [![1004 Islands Museum Park (1004 뮤지엄파크)](http://tong.visitkorea.or.kr/cms/resource/48/3007148_image3_1.jpg)](http://tong.visitkorea.or.kr/cms/resource/48/3007148_image2_1.jpg) |
-| **105405 Magok  (105405 마곡)** | 161-8 Magokjungang-ro, Gangseo… | 82 | [![105405 Magok  (105405 마곡)](http://tong.visitkorea.or.kr/cms/resource/53/3479353_image3_1.jpg)](http://tong.visitkorea.or.kr/cms/resource/53/3479353_image2_1.jpg) |
+전국 관광 콘텐츠를 **영어(English)** 로 제공하는 다국어 관광정보 API.  
+콘텐츠 구조는 국문(KorService2)과 동일하며, 명칭·주소·설명이 해당 언어로 번역·제공됨.
 
-## 주요 특징
+---
 
-- **언어:** 영문(English) (en)
-- **전체 데이터:** 15,862건의 영어 번역 관광정보
-- **콘텐츠 유형:** 관광지(12), 문화시설(14), 행사(15), 여행코스(25), 레포츠(28), 숙박(32), 쇼핑(38), 음식(39)
-- **제공 정보:** 영어 관광지명·소개·주소, GPS 좌표, 대표 이미지
+## 샘플 10건
+
+| 이미지 | 명칭 | 주소 | 콘텐츠 타입 |
+|--------|------|------|------------|
+| — | 추암조각공원 (Chuam Sculpture Park) | 17-1 Chotdaebawi-gil, Donghae-si, Gangwon-do | 76 |
+| <img src="https://tong.visitkorea.or.kr/cms/resource/71/4044971_image2_1.JPG" width="80"> | 0914 Flagship Store Dosan Park[Tax Refund Shop](0914 도산공원 플래그십 스토어) | 1F–2F, 15, Dosan-daero 45-gil, Gangnam-gu, Seoul | 79 |
+| <img src="http://tong.visitkorea.or.kr/cms/resource/71/2778971_image2_1.png" width="80"> | 10 Corso Como Cheongdam Branch (10꼬르소꼬모 청담점) | 416, Apgujeong-ro, Gangnam-gu, Seoul | 79 |
+| <img src="https://tong.visitkorea.or.kr/cms/resource/15/4018515_image2_1.jpg" width="80"> | 10 Corso Como Cheongdam Branch [Tax Refund Shop](10꼬르소꼬모 청담점) | 2F, 1F, 416, Apgujeong-ro, Gangnam-gu, Seoul | 79 |
+| <img src="https://tong.visitkorea.or.kr/cms/resource/26/4018126_image2_1.jpg" width="80"> | 10 Corso Como Magazzini Garosu-gil Branch [Tax Refund Shop](10꼬르소꼬모 마가찌니 가로수길점) | 9, Apgujeong-ro 10-gil, Gangnam-gu, Seoul | 79 |
+| <img src="http://tong.visitkorea.or.kr/cms/resource/53/3537253_image2_1.jpg" width="80"> | 100 Years Market 100 Years Night (백년시장 백년나이트) | 16 Hancheon-ro 144-gil, Gangbuk-gu, Seoul | 85 |
+| <img src="https://tong.visitkorea.or.kr/cms/resource/72/4024672_image2_1.jpeg" width="80"> | 100 Years Optical [Tax Refund Shop](백년안경) | 1F, 34, Mareunnae-ro, Jung-gu, Seoul | 79 |
+| <img src="https://tong.visitkorea.or.kr/cms/resource/42/4042142_image2_1.JPG" width="80"> | 1001 Optics Imdang Branch [Tax Refund Shop](일공공일안경콘택트 임당점) | 1F, 2110, Gyeonggang-ro, Gangneung-si, Gangwon-do | 79 |
+| <img src="http://tong.visitkorea.or.kr/cms/resource/48/3007148_image2_1.jpg" width="80"> | 1004 Islands Museum Park (1004 뮤지엄파크) | 508-65 Jaeunseobu 2-gil, Jaeun-myeon, Sinan-gun, Jeollanam-do | 76 |
+| <img src="http://tong.visitkorea.or.kr/cms/resource/53/3479353_image2_1.jpg" width="80"> | 105405 Magok  (105405 마곡) | 161-8 Magokjungang-ro, Gangseo-gu, Seoul | 82 |
+
+### 주요 필드
+
+| 필드 | 설명 |
+|------|------|
+| `contentid` | 콘텐츠 고유 ID (국문 ID와 동일) |
+| `contenttypeid` | 콘텐츠 타입 코드 |
+| `title` | 명칭 (English) |
+| `addr1` / `addr2` | 주소 (English) |
+| `firstimage` | 대표 이미지 URL |
+| `mapx` / `mapy` | 경도 / 위도 |
+| `areacode` / `sigungucode` | 지역 / 시군구 코드 |
+
+### 콘텐츠 타입 코드
+
+| 코드 | 분류 |
+|------|------|
+| 12 | Tourist Attraction |
+| 14 | Cultural Facility |
+| 15 | Festival / Event |
+| 25 | Travel Course |
+| 28 | Leisure & Sports |
+| 32 | Accommodation |
+| 38 | Shopping |
+| 39 | Restaurant |
+
+> 국문 `contentid` 와 1:1 매핑되므로 상세 정보 조회 시 동일 ID를 사용할 수 있습니다.
